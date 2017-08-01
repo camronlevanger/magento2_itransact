@@ -12,7 +12,7 @@ Install
 2. Enter following commands to install module:
 
     ```bash
-    composer config repositories.camronlevanger git https://github.com/Inchoo/magento2-Inchoo_Stripe.git
+    composer config repositories.camronlevanger git https://github.com/camronlevanger/magento2_itransact.git
     composer require camronlevanger/itransact:dev-master
     ```
    Wait while dependencies are updated.

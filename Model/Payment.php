@@ -2,13 +2,13 @@
 /**
  * iTransact payment method model
  *
- * @package     iTransact
+ * @package     CamronLevanger\iTransact
  * @author      Camron G. Levanger
  * @copyright   Camron G. Levanger
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
-namespace Camron\iTransact\Model;
+namespace CamronLevanger\iTransact\Model;
 
 class Payment extends \Magento\Payment\Model\Method\Cc
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Camron\iTransact\Model\Source;
+namespace CamronLevanger\iTransact\Model\Source;
 
 class Cctype extends \Magento\Payment\Model\Source\Cctype
 {

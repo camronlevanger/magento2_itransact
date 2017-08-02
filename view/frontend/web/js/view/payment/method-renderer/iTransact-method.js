@@ -10,7 +10,7 @@ define(
 
         return Component.extend({
             defaults: {
-                template: 'iTransact/payment/stripe-form'
+                template: 'CamronLevanger_Itransact/payment/itransact-form'
             },
 
             getCode: function() {

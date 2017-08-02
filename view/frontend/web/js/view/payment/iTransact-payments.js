@@ -12,7 +12,7 @@ define(
         rendererList.push(
             {
                 type: 'iTransact',
-                component: 'iTransact/js/view/payment/method-renderer/stripe-method'
+                component: 'CamronLevanger_Itransact/js/view/payment/method-renderer/itransact-method'
             }
         );
         /** Add view logic here if needed */

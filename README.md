@@ -20,7 +20,7 @@ Install
 3. Enter following commands to enable module:
 
     ```bash
-    php bin/magento module:enable iTransact --clear-static-content
+    php bin/magento module:enable CamronLevanger_Itransact --clear-static-content
     php bin/magento setup:upgrade
     ```
 4. Enable and configure iTransact in Magento Admin under Stores/Configuration/Payment Methods/iTransact

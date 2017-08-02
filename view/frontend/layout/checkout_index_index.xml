@@ -19,7 +19,7 @@
                                                             <!-- merge payment method renders here -->
                                                             <item name="children" xsi:type="array">
                                                                 <item name="inchoo_stripe-payments" xsi:type="array">
-                                                                    <item name="component" xsi:type="string">iTransact/js/view/payment/iTransact-payments</item>
+                                                                    <item name="component" xsi:type="string">Camronlevanger_Itransact/js/view/payment/itransact-payments</item>
                                                                     <item name="methods" xsi:type="array">
                                                                         <item name="inchoo_stripe" xsi:type="array">
                                                                             <item name="isBillingAddressRequired" xsi:type="boolean">true</item>

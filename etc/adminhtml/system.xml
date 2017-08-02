@@ -25,7 +25,7 @@
                 </field>
                 <field id="cctypes" translate="label" type="multiselect" sortOrder="5" showInDefault="1" showInWebsite="1" showInStore="0">
                     <label>Credit Card Types</label>
-                    <source_model>Camron\iTransact\Model\Source\Cctype</source_model>
+                    <source_model>CamronLevanger\Itransact\Model\Source\Cctype</source_model>
                 </field>
                 <field id="sort_order" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
                     <label>Sort Order</label>

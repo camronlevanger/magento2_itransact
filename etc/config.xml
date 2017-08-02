@@ -4,7 +4,7 @@
         <payment>
             <camronlevanger_itransact>
                 <active>0</active>
-                <model>CamronLevanger\iTransact\Model\Payment</model>
+                <model>CamronLevanger\Itransact\Model\Payment</model>
                 <payment_action>authorize_capture</payment_action>
                 <title>iTransact</title>
                 <api_key backend_model="Magento\Config\Model\Config\Backend\Encrypted" />
